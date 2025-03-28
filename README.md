@@ -25,7 +25,7 @@ This workflow is used to create a face model from a batch of input images. The g
 ![image](https://github.com/user-attachments/assets/87b118cf-6afa-4c3a-aeed-f7a5684f2b61)
 
 #### Purpose:
-This workflow applies face swapping to static images using a pre-trained face model, it is intended to be used as integration into antoher more complex workflow, not as is. 
+This workflow applies face swapping to static images using a pre-trained face model, it is intended to be used as integration into another more complex workflow, not as is. 
 
 #### Components:
 - **ReActorLoadFaceModel Node:** Loads a pre-trained face model.
